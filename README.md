@@ -1,5 +1,10 @@
 # pymongo-api
 
+Ссылка на схему решения:
+https://drive.google.com/file/d/1NQC6UQ90K8dkgV7QInJgjtb-YCxNioO8/view?usp=sharing
+
+---
+
 ## Как запустить
 
 Запускаем mongodb и приложение
